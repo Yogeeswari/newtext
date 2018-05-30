@@ -13,4 +13,8 @@ we r downloading project by using gitclone command
 git branch branchname by using thing we r creating subbranches
 by using git status we r checking the status
 git push origin master --force here we r downloading the files from centralreposby using git logs we r checking the logs
-git remote rm yogi_project by using this we r removing yogi project frm centralr
+git remote rm yogi_project by using this we r removing yogi project frm central
+git branch by using this we r checking how many branches r present
+git checkout frstbranch
+by using this we r entering into our firstbranch
+git push --all we r pushing all the files into centralrepository
